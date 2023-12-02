@@ -9,6 +9,7 @@ Web Developer and Designer
 * 🧠  I'm learning HTML5 and CSS3
 * 🤝  I'm open to collaborating on freelance job as designer
 * ⚡  I’m currently studying at Higher institute of technological studies of bizerte
+* 🖥 Check out my  <a href="https://rasslenws.github.io/portfolio/" target="_blank"> portfolio_website </a>
 
 ### Skills
 
