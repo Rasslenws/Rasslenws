@@ -6,7 +6,7 @@ Web Developer and Designer
 
 * 🌍  I'm based in Tunisia
 * ✉️  You can contact me at [rasslenweslati0@gmail.com](mailto:rasslenweslati0@gmail.com)
-* 🧠  I'm learning HTML5 and CSS3
+* 🧠  I'm learning HTML5 and CSS3 and JavaScript
 * 🤝  I'm open to collaborating on freelance job as designer
 * ⚡  I’m currently studying at Higher institute of technological studies of bizerte
 * 🖥 Check out my  <a href="https://rasslenws.github.io/portfolio/" target="_blank"> portfolio_website </a><br>
